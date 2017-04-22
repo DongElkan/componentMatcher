@@ -14,7 +14,7 @@ Double click `CMmain`, and an interface will occur. All data processing can be p
 
 #Copyright
 ----------
-&copy; Naiping Dong
+&copy; Naiping Dong  
 Email: naiping.dong@hotmail.com
 
 #License
